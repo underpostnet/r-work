@@ -1,0 +1,7 @@
+Clima = c(1,56,1,1,1,2,2,2,2,2)
+Crecimiento = c(350,375,360,400,380,500,530,520,550,545)
+laTabla = data.frame (cbind(Clima,Crecimiento))
+laTabla2 = data.frame (rbind(Clima,Crecimiento))
+print('test')
+print(Clima[2])
+print(length(Clima))
