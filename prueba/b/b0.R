@@ -117,7 +117,13 @@ print('-------------------------')
 #-------------------------------------------------------------------------------
 
 
+t.test(x=ventas_mes_b, y=ventas_mes_a,
+       paired=FALSE, var.equal=TRUE,
+       conf.level = 0.90)
 
+t.test(x=ventas_mes_a, y=ventas_mes_b,
+      paired=FALSE, var.equal=TRUE,
+      conf.level = 0.90)
 
 
 
