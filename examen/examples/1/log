@@ -1,0 +1,14 @@
+[1] "---------resistencia---------"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  407.0   429.0   436.0   435.3   442.0   458.0
+[1] "desviacion estandar"
+[1] 11.2975
+[1] "varianza"
+[1] 127.6336
+[1] "---------tiempo---------"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  16.00   20.00   24.00   24.32   29.00   32.00
+[1] "desviacion estandar"
+[1] 4.892549
+[1] "varianza"
+[1] 23.93703

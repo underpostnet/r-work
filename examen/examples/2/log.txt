@@ -1,0 +1,22 @@
+[1] "---------resistencia---------"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+    400     427     436     434     441     458
+[1] "desviacion estandar"
+[1] 11.89639
+[1] "varianza"
+[1] 141.5242
+[1] "simetria"
+[1] -0.2149099
+[1] "kurtosis"
+[1] 3.228538
+[1] "---------tiempo---------"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  16.00   21.50   26.00   24.97   29.00   32.00
+[1] "desviacion estandar"
+[1] 4.69854
+[1] "varianza"
+[1] 22.07627
+[1] "simetria"
+[1] -0.3153539
+[1] "kurtosis"
+[1] 1.930317
